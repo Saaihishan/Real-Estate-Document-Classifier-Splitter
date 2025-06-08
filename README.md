@@ -1,6 +1,5 @@
 # Real-Estate-Document-Classifier-Splitter
 
-# Real Estate Document Processor
 
 An intelligent document processing system that automatically splits merged PDF files containing multiple real estate documents and classifies them into specific categories.
 
